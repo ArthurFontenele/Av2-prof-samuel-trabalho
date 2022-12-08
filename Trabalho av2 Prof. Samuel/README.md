@@ -5,21 +5,21 @@
 <h3>Encapsulamento:  💥</h3>
       
        ⠀⠀
-      💠Tem o princípo de dividir tarefas em um codigo de maneira organizada e segura.
+      - Tem o princípo de dividir tarefas em um codigo de maneira organizada e segura.
       
-      💠Evita de ter codigos repetidos.por o codigo ficar "abstraido".
+      - Evita de ter codigos repetidos.por o codigo ficar "abstraido".
       
-      💠O codigo fica "abstraido", por meio de uma interface.
+      - O codigo fica "abstraido", por meio de uma interface.
        
-      💠Evitando ter contado direto com o algoritmo em questão,assim dando a segurança de n interferir na sua função.
+      - Evitando ter contado direto com o algoritmo em questão,assim dando a segurança de n interferir na sua função.
       
-      💠Por ter tarefas divididas, a manutenção do codigo é mais eficiente.
+      - Por ter tarefas divididas, a manutenção do codigo é mais eficiente.
       
       ➡️O encapsulamento consiste em separar as tarefas em "metodos".
       
       ➡️Com isso sempre que for realizar uma tarefa, será necessário apenas chamar o metodo.
       ⠀⠀
-      
+EX:
 </br>
 <h1></h1>
 </br>
@@ -40,7 +40,7 @@
 	     
       ➡️A Classe que recebe herança de Pessoa também vai ter nome e sobrenome,andar e falar.
       ⠀⠀
-
+EX:
 </br>
 <h1></h1>
 </br>
@@ -63,7 +63,7 @@
 	 
       🟢Temos o mesmo nome pra um comportamento ( Fazer um trabalho de faculdade ) e varías formas de fazer.
       ⠀⠀
-
+EX:
 </br>
 <h1></h1>
 </br>
@@ -85,7 +85,7 @@
     
                ❓acelerar,frear,ligar,desligar,abrir e fechar são métodos
 	       ⠀⠀
-
+EX:
 </br>
 <h1></h1>
 </br>
@@ -96,7 +96,7 @@
       ⠀⠀
       ➡️Atributos e Métodos Estáticos são ações e características de uso exclusivo da Classe.
       ⠀⠀
-
+EX:
 </br>
 <h1></h1>
 </br>
@@ -160,7 +160,7 @@
         🔺Classe1 mostrará "mensagem"
 	🔺Classe2 mostrará "outra mensagem"
 	⠀⠀
-
+EX:
 </br>
 <h1></h1>
 </br>
