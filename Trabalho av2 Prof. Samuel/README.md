@@ -1,8 +1,8 @@
 <h1 align="center">Trabalho de Programação Orientada a  Objetos</h1>
 
-<h2>⚡1º- Considerando os conceitos básicos de Orientação a Objetos, explique o significado dos conceitos abaixo:</h2>
+<h2>1º- Considerando os conceitos básicos de Orientação a Objetos, explique o significado dos conceitos abaixo:</h2>
 </br>
-<h3>Encapsulamento:  💥</h3>
+<h3>Encapsulamento:  </h3>
       
        ⠀⠀
       - Tem o princípo de dividir tarefas em um codigo de maneira organizada e segura.
@@ -24,19 +24,19 @@ EX:
 <h1></h1>
 </br>
 
-<h3>Herança:  💫</h3>
+<h3>Herança:  </h3>
 
       ⠀⠀
-      ➡️A herança permite que Classes compartilhem características e ações com outras.
+      -A herança permite que Classes compartilhem características e ações com outras.
 
-       💠Classe que vai compartilhar: Se chama base;
-       💠Classe que vai receber: Se chama derivada;
+       Classe que vai compartilhar: Se chama base;
+       Classe que vai receber: Se chama derivada;
       
-      ❓exemplo:
+      exemplo:
       
-          💠Uma Classe com nome Pessoa que possui:
-          💠características: nome e sobrenome;
-          💠ações: andar e falar;
+          Uma Classe com nome Pessoa que possui:
+          características: nome e sobrenome;
+          ações: andar e falar;
 	     
       - A Classe que recebe herança de Pessoa também vai ter nome e sobrenome,andar e falar.
       ⠀⠀
@@ -55,11 +55,11 @@ EX:
       
       Exemplo:
       
-           💠Fazer um trabalho de faculdade tem varias formas de fazer essa ação:
-           💠Estudando pra saber resolver.
-           💠Pedindo ajuda.
-           💠Copiando de outra pessoa.
-           💠Fazer de forma errada
+           Fazer um trabalho de faculdade tem varias formas de fazer essa ação:
+           Estudando pra saber resolver.
+           Pedindo ajuda.
+           Copiando de outra pessoa.
+           Fazer de forma errada
 	 
       Temos o mesmo nome pra um comportamento ( Fazer um trabalho de faculdade ) e varías formas de fazer.
       ⠀⠀
@@ -73,15 +73,15 @@ EX:
       ⠀⠀
       Atributos são características de objetos como por exemplo:
       
-         💠Carro -> tem roda,volante,banco.
-         💠Porta -> tem cor,material,espessura.
+         Carro -> tem roda,volante,banco.
+         Porta -> tem cor,material,espessura.
 	  
 	      roda, volante, banco, cor, material eespessura são atributos.
 	 
       Métodos são ações que o objeto pode fazer:
       
-         💠Carro -> acelerar,frear,ligar,desligar.
-         💠Porta -> abrir,fechar.
+         Carro -> acelerar,frear,ligar,desligar.
+         Porta -> abrir,fechar.
     
                acelerar,frear,ligar,desligar,abrir e fechar são métodos
 	       ⠀⠀
