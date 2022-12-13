@@ -15,9 +15,9 @@
       
       - Por ter tarefas divididas, a manutenção do codigo é mais eficiente.
       
-      ➡️O encapsulamento consiste em separar as tarefas em "metodos".
+      - O encapsulamento consiste em separar as tarefas em "metodos".
       
-      ➡️Com isso sempre que for realizar uma tarefa, será necessário apenas chamar o metodo.
+      - Com isso sempre que for realizar uma tarefa, será necessário apenas chamar o metodo.
       ⠀⠀
 EX:
 </br>
@@ -38,22 +38,22 @@ EX:
           💠características: nome e sobrenome;
           💠ações: andar e falar;
 	     
-      ➡️A Classe que recebe herança de Pessoa também vai ter nome e sobrenome,andar e falar.
+      - A Classe que recebe herança de Pessoa também vai ter nome e sobrenome,andar e falar.
       ⠀⠀
 EX:
 </br>
 <h1></h1>
 </br>
 
-<h3>Polimorfismo  🐸</h3>
+<h3>Polimorfismo  </h3>
      
       ⠀⠀
-      🟢Poli = muitas;  
-      🟢morfo = formas
+      Poli = muitas;  
+      morfo = formas
       
-      ➡️Poliformifismo é quando algo pode fazer a mesma coisa de formas diferentes.
+      - Poliformifismo é quando algo pode fazer a mesma coisa de formas diferentes.
       
-      ❓exemplo:
+      Exemplo:
       
            💠Fazer um trabalho de faculdade tem varias formas de fazer essa ação:
            💠Estudando pra saber resolver.
@@ -61,40 +61,40 @@ EX:
            💠Copiando de outra pessoa.
            💠Fazer de forma errada
 	 
-      🟢Temos o mesmo nome pra um comportamento ( Fazer um trabalho de faculdade ) e varías formas de fazer.
+      Temos o mesmo nome pra um comportamento ( Fazer um trabalho de faculdade ) e varías formas de fazer.
       ⠀⠀
 EX:
 </br>
 <h1></h1>
 </br>
 
-<h3>Atributos e Métodos 🍀</h3>
+<h3>Atributos e Métodos </h3>
 
       ⠀⠀
-      🟢Atributos são características de objetos como por exemplo:
+      Atributos são características de objetos como por exemplo:
       
          💠Carro -> tem roda,volante,banco.
          💠Porta -> tem cor,material,espessura.
 	  
-	     ❓ roda, volante, banco, cor, material eespessura são atributos.
+	      roda, volante, banco, cor, material eespessura são atributos.
 	 
-      🟢Métodos são ações que o objeto pode fazer:
+      Métodos são ações que o objeto pode fazer:
       
          💠Carro -> acelerar,frear,ligar,desligar.
          💠Porta -> abrir,fechar.
     
-               ❓acelerar,frear,ligar,desligar,abrir e fechar são métodos
+               acelerar,frear,ligar,desligar,abrir e fechar são métodos
 	       ⠀⠀
 EX:
 </br>
 <h1></h1>
 </br>
 		      
-<h3>Atributos e Métodos Estáticos 🍁</h3>
+<h3>Atributos e Métodos Estáticos </h3>
 
  
       ⠀⠀
-      ➡️Atributos e Métodos Estáticos são ações e características de uso exclusivo da Classe.
+      - Atributos e Métodos Estáticos são ações e características de uso exclusivo da Classe.
       ⠀⠀
 EX:
 </br>
@@ -102,20 +102,20 @@ EX:
 </br>
 
 
-<h2>🔅2º- Diferencie os mecanismos de sobrescrita e sobrecarga, demonstrando cenário de uso de cada um desses.</h2>
+<h2> 2º- Diferencie os mecanismos de sobrescrita e sobrecarga, demonstrando cenário de uso de cada um desses.</h2>
 </br>
-<h4 align="center">⭕Sobrescrita⭕</h4>
+<h4 align="center">Sobrescrita</h4>
 
 
        ⠀⠀
-      ➡️Sobrescrita é quando se tem métodos com a mesma assinatura em classes diferentes.
-      ➡️Quando não se quer herdar o método do jeito da outra classe, se "sobrescreve" o mesmo.
+      - Sobrescrita é quando se tem métodos com a mesma assinatura em classes diferentes.
+      - Quando não se quer herdar o método do jeito da outra classe, se "sobrescreve" o mesmo.
       
-        🟢Mesma assinatura: quando tem a mesma quantidade de parametros e sãp do mesmo tipo.
+        Mesma assinatura: quando tem a mesma quantidade de parametros e sãp do mesmo tipo.
       
-      ❓exemplo pratico:
+      Exemplo pratico:
       
-        💠Classe1 com uma método "mensagem" que mostra uma string:
+        Classe 1 com uma método "mensagem" que mostra uma string:
       
             🔸public class Classe1 {
             🔸   public void mensagem() {
@@ -123,16 +123,16 @@ EX:
             🔸  }
             🔸}
        
-        💠Classe2 derivada de Classe1:
+        Classe 2 derivada de Classe1:
       
             🔸 public class Classe2 extends Classe1{
             🔸 }
       
-      💠Como a Classe2 herda de classe1, ela tambem possui o método mensagem().
+      Como a Classe2 herda de classe1, ela tambem possui o método mensagem().
       
-      🟢Então se tentar imprimir mensagem() em ambas,ambas vão retornar a mesma coisa!
+      Então se tentar imprimir mensagem() em ambas,ambas vão retornar a mesma coisa!
       
-      ➡️Agora com Sobrescrita:
+      - Agora com Sobrescrita:
       
         💠Classe1 com uma método "mensagem" que mostra uma string:
       
@@ -334,8 +334,6 @@ EX:
 
 <h2>💲4º-Modifique a o projeto banco (abordado em sala de aula) para que o cliente usado seja um tipo PessoaFisica ou PessoaJuridica.</h2>
 </br>
-
-➡️[Link para 4º questão](https://github.com/isonhar/trabalho-de-poo-faculdade/tree/main/quest%C3%A3o%204/banco/src/banco)
 
 </br>
 <h1 align="center">〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️</h1>
